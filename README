@@ -1,0 +1,18 @@
+                Music Player for Java Micro Edition
+
+Features:
+
+  -- play mp3 and wav files
+  -- read and play playlists from filesystem
+  -- adjust volume level
+  -- seek forward or seek backward
+  -- skip forward or skip backward
+  -- stop or pause
+
+How to build and run:
+
+  -- .jar package can be created using Sun Java Wireless Toolkit for CLDC 
+      (version 2.5.2)
+  -- .jar file should be uploaded to the phone and installed
+  -- choose MuuPlayer from the phone's application menu
+
